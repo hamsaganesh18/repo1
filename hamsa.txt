@@ -1,10 +1,1 @@
- Volume in drive E is Hamsa
- Volume Serial Number is 8E04-47F9
-
- Directory of E:\Git_practise
-
-03-02-2021  11:43    <DIR>          .
-03-02-2021  11:43    <DIR>          ..
-03-02-2021  11:43                 0 hamsa.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  394,256,384,000 bytes free
+This is a test file for practising git hub
